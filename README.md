@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vermation aka Priyanshu Verma.
-- 👀 I’m interested in coding,
+- 👀 I’m interested in coding, reading.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a lot things.
 - 📫 How to reach me.. IG: vermation_
