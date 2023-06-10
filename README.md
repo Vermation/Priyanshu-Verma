@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vermation aka Priyanshu Verma.
+- 👋 Hi, My name is Priyanshu Verma.
 - 👀 I’m interested in coding, reading.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a lot things.
-- 📫 How to reach me.. IG: vermation_
+- 🌱 I’m currently learning Java and web development.
+- 💞️ I’m looking to collaborate on making projects on wed development.
+- 📫 My linkedIn id is :https://www.linkedin.com/in/priyanshuv72 
 
 <!---
 Vermation/Vermation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
